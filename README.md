@@ -1,7 +1,8 @@
-
+<img width="1536" height="1024" alt="Juan FutureDev" src="https://github.com/user-attachments/assets/81fdf3a9-7983-46e4-a77e-a5cf48b08a7c" />
 # Hi, I'm Juan Pablo 👋
 
 🇧🇷 Brazil
+
 
 💻 Computer Science student at Anhanguera University.  
 🚀 Beginner developer passionate about technology and problem solving.  
