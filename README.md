@@ -1,7 +1,4 @@
-<img width="395" height="414" alt="image" src="https://github.com/user-attachments/assets/ed46d008-1253-4287-850f-436024586485" />
-
-
-
+<img width="1536" height="1024" alt="aaa" src="https://github.com/user-attachments/assets/8adacc66-8f46-4138-ac15-7aa4cc20212e" />
 
 # Hi, I'm Juan Pablo 👋
 
