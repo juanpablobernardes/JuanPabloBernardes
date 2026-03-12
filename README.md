@@ -1,3 +1,8 @@
+<img width="395" height="414" alt="image" src="https://github.com/user-attachments/assets/ed46d008-1253-4287-850f-436024586485" />
+
+
+
+
 # Hi, I'm Juan Pablo 👋
 
 🇧🇷 Brazil
