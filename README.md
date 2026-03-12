@@ -1,4 +1,3 @@
-<img width="1536" height="1024" alt="Juan" src="https://github.com/user-attachments/assets/8adacc66-8f46-4138-ac15-7aa4cc20212e" />
 
 # Hi, I'm Juan Pablo 👋
 
