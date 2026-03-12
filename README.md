@@ -1,4 +1,5 @@
-<img width="1536" height="1024" alt="Juan FutureDev" src="https://github.com/user-attachments/assets/81fdf3a9-7983-46e4-a77e-a5cf48b08a7c" />
+<img width="421" height="143" alt="image" src="https://github.com/user-attachments/assets/b2dafba6-1b43-4062-8977-bae6ae4dcffc" />
+
 # Hi, I'm Juan Pablo 👋
 
 🇧🇷 Brazil
