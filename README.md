@@ -1,4 +1,5 @@
-<img width="421" height="143" alt="image" src="https://github.com/user-attachments/assets/b2dafba6-1b43-4062-8977-bae6ae4dcffc" />
+<img width="768" height="512" alt="Programador em ação no escritório moderno" src="https://github.com/user-attachments/assets/9e03809f-76aa-483e-9733-49d45657aac9" />
+
 
 # Hi, I'm Juan Pablo 👋
 
